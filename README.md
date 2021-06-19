@@ -1,3 +1,10 @@
+# Weather App               										                  
+Created a React application to displaying the real-time weather on the assigned location fetching data from a weather API.\
+Used HTML, CSS and Bootstrap for front-end design.\
+Allows user to search the temperature, humidity and conditions of desired cities.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
